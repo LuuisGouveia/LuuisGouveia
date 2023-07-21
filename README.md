@@ -2,7 +2,7 @@
 
 ##
 
-- 📚 No momento estudo linguagem Python, sendo suas Frameworks, e POO
+- 📚 No momento estudo linguagem Python, suas Frameworks e POO
 - 🤝🏿 Quero colaborar em projetos dentro dessa minha área de estudos
 - 📫 Contato: luisgouveia74@gmail.com
 
