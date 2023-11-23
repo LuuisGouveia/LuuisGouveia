@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/luuis74" target="blank"><img src="https://img.shields.io/twitter/follow/luuis74?logo=twitter&style=for-the-badge" alt="luuis74" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Flask, Django, Kivy, KivyMD, Flet, POO**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, REACT, NEXT.JS, NODE.JS, Typescript**
 
 - 📫 How to reach me **luisgouveia74@gmail.com**
 
