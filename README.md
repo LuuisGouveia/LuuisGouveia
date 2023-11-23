@@ -1,7 +1,5 @@
 <h3 align="center">A passionate frontend developer from Brasil!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luuisgouveia" alt="luuisgouveia" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/luuisgouveia" target="blank"><img src="https://img.shields.io/twitter/follow/luuisgouveia?logo=twitter&style=for-the-badge" alt="luuisgouveia" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, React, Node.JS, Next.JS and Typescript**
