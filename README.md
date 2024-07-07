@@ -8,7 +8,9 @@
 
 - 📫 How to reach me **luisgouveia74@gmail.com**
 
-- 📄 Know about my experiences [Intermediate experience in JS, but in the process of evolving to an advanced level, mastery of HTML, CSS, and a basic level of its main frameworks, REACT and Vue.](Intermediate experience in JS, but in the process of evolving to an advanced level, mastery of HTML, CSS, and a basic level of its main frameworks, REACT and Vue.)
+- 📄 "Engenheiro de Software apaixonado pelo desenvolvimento de software e atualmente no primeiro ano de formação. Com habilidades de comunicação eficaz, espírito de trabalho em equipe e atenção aos detalhes e necessidades dos sistemas. Possuo conhecimento variado em diversas linguagens de programação, como C, C++, C#, Java, Python e Javascript, e experiência em vários paradigmas de programação, incluindo Orientação a Objetos, Funcional e Estruturado. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir de forma significativa para projetos inovadores."
+
+"Software Engineer passionate about software development and currently in the first year of formation. With effective communication skills, a strong team spirit, and attention to detail and system requirements. I have a diverse knowledge of programming languages such as C, C++, C#, Java, Python, and JavaScript, and experience in various programming paradigms including Object-oriented, Functional, and Structured. I am always seeking challenges that allow me to grow professionally and contribute significantly to innovative projects."
 
 - ⚡ Fun fact **Puns and jokes make life easier**
 
