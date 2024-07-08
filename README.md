@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Brasil!</h3>
+<h3 align="center">A passionate Software Engineer developer from Brasil!</h3>
 
 <p align="left"> <a href="https://twitter.com/luuisgouveia" target="blank"><img src="https://img.shields.io/twitter/follow/luuisgouveia?logo=twitter&style=for-the-badge" alt="luuisgouveia" /></a> </p>
 
